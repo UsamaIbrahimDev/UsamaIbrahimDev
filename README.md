@@ -10,12 +10,12 @@
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code_2022-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHub-E44C30?style=flat&logo=gitHub&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-E44C30?style=flat&logo=gitHub&logoColor=white)
 
 ```dart
 // tools_I_use organized
 
-class About extends Me { 
+class clsAbout extends Me { 
   const myTools = {  
     "ProgramingLanguages" : { "Python", "Javascript", "Java", "c++" },
     "OtherLanguages" : { "HTML", "CSS" },
